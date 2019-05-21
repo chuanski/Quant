@@ -1,0 +1,18 @@
+# [Some common .gitignore configurations](https://gist.github.com/octocat/9257657)
+# [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+**/.DS_Store
+**/.DS_Store?
+**/._*
+**/.Spotlight-V100
+**/.Trashes
+**/ehthumbs.db
+**/Thumbs.db
